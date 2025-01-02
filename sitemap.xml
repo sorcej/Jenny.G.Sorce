@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://sorcej.github.io/Jenny.G.Sorce/</loc>
+  <lastmod>2025-01-02T11:52:11+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://sorcej.github.io/Jenny.G.Sorce/accueil.html</loc>
+  <lastmod>2025-01-02T11:52:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sorcej.github.io/Jenny.G.Sorce/files/cv_jenny_sorce_eng_short.pdf</loc>
+  <lastmod>2025-01-02T11:52:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sorcej.github.io/Jenny.G.Sorce/home.html</loc>
+  <lastmod>2025-01-02T11:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sorcej.github.io/Jenny.G.Sorce/files/cv_jenny_sorce_fra_court.pdf</loc>
+  <lastmod>2025-01-02T11:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
